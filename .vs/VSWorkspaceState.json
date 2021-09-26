@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\InfologsWebSite",
+    "\\InfologsWebSite\\wwwroot"
   ],
-  "SelectedNode": "\\WebSite.sln",
+  "SelectedNode": "\\InfologsWebSite\\wwwroot",
   "PreviewInSolutionExplorer": false
 }

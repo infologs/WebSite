@@ -511,20 +511,20 @@ div#preloader {
 }
 .s-menu {
     padding: 12px 20px;
-    border: 1px solid #3078fb;
+    border: 1px solid #FA8503;
     border-radius: 2px;
-    background: #3078fb;
+    background: #FA8503;
     color: #fff;
     transition: 0.4s;
     font-size: 15px;
     font-weight: 500;
 }
-.s-menu:hover {
-    border: 1px solid #3078fb;
-    background: transparent;
-	color:#3078fb;
-    transition: 0.4s;
-}
+    .s-menu:hover {
+        border: 1px solid #fff;
+        background: #fff;
+        color: #000;
+        transition: 0.4s;
+    }
 .header-area.stick  .header-right-link {
     padding: 25px 0px;
 }
